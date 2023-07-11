@@ -295,6 +295,10 @@ git push 远程仓库名称 本地分支名称[:远端分支名称]
 
 注意`push`后面两个参数，一个是远端名称，还有一个就是本地分支名称，但是如果本地分支名称和远端分支名称一致，那么不用指定远端分支名称，但是如果我们希望推送的分支在远端没有同名的，那么需要额外指定。推送前需要登陆账户，GitHub现在不允许使用用户名密码验证，只允许使用个人AccessToken来验证身份，所以我们需要先去生成一个Token才可以。
 
+![image-20230711081523121](https://img.ixuanzi.com/images/typora/image-20230711081523121.png)
+
+![image-20230711081552676](https://img.ixuanzi.com/images/typora/image-20230711081552676.png)
+
 ### 远程仓库不走代理
 
 [原帖地址](https://blog.csdn.net/gong_wejoy/article/details/130732737)
