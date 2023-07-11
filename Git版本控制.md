@@ -299,6 +299,8 @@ git push 远程仓库名称 本地分支名称[:远端分支名称]
 
 ![image-20230711081552676](https://img.ixuanzi.com/images/typora/image-20230711081552676.png)
 
+![image-20230711081910207](https://img.ixuanzi.com/images/typora/image-20230711081910207.png)
+
 ### 远程仓库不走代理
 
 [原帖地址](https://blog.csdn.net/gong_wejoy/article/details/130732737)
